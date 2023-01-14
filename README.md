@@ -4,7 +4,15 @@
 
 🙂
 
+---
+
 [Link do strony na GitHub Pages](https://makgra.github.io)
+
+---
+
+[Link do repozytorium (fork)](https://github.com/makgra/point-e)
+
+[Link do artykułu na Papers with Code](https://paperswithcode.com/paper/point-e-a-system-for-generating-3d-point)
 <!--
 **makgra/makgra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
